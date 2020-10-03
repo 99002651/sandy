@@ -1,0 +1,3 @@
+/home/user/Downloads/fwd/SHELL/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/fwd/SHELL/CMakeFiles/edit_cache.dir
+/home/user/Downloads/fwd/SHELL/CMakeFiles/a.out.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/fwd/SHELL/Box.h
+
+/home/user/Downloads/fwd/SHELL/box.cpp
+iostream
+-
+Box.h
+/home/user/Downloads/fwd/SHELL/Box.h
+
+/home/user/Downloads/fwd/SHELL/box_test.cpp
+gtest/gtest.h
+-
+box.cpp
+/home/user/Downloads/fwd/SHELL/box.cpp
+
